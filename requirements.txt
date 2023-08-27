@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.12.0
+pyrogram==2.0.106
+redis==4.6.0
+
